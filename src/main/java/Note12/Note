@@ -1,0 +1,23 @@
+there are two type of methods;
+1. mehtod which do nnot retun any data type0
+2. mehtod whictch can return data like int , double and char etc.
+Syntax; int add(int num1, int num2(){
+int result =num1+num2;
+return result
+    }
+
+int=> return type of method
+ add=> nma eof the method
+          (int num1,int num2) => parameters
+          {   =>>>> Body of the method
+          int result = num1+num2
+[10:15 AM]
+advantages of modular design/ programming
+    *Code is easier to read. ...
+    *Code is easier to test. ...
+    *Easily find things later. ...
+    *Reusability without bloat. ...
+    *Single source for faster fixes. ...
+    *Easier, lower risk updates. ...
+    *Easier refactoring. ...
+    *Easier to collaborate

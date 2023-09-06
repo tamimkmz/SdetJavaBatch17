@@ -1,0 +1,4 @@
+    Note:
+it helps us build objects from class easily
+/We write constructors to build the objects
+Static can not sued with constructors
