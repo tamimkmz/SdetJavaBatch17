@@ -1,4 +1,4 @@
-package class10;
+package Class10;
 
 public class Phone {
     String make;

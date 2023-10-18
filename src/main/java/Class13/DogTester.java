@@ -1,4 +1,4 @@
-package class13;
+package Class13;
 
 public class DogTester {
     public static void main(String[] args) {
@@ -14,8 +14,8 @@ public class DogTester {
         d2.age=21;
         d1.printInfo();
         d2.printInfo();
+System.out.println(SyntaxEmployee.CEO);
 
-        System.out.println(SyntaxEmployee.CEO);
 
     }
 }

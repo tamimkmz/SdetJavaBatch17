@@ -27,17 +27,6 @@ add=>name of the method
         return result;
     }
 
-
-
-
-
-
-
-
-
-
-
-
 Note:
     WE will go over StringBuilder vs String
     We will go over some of the homeworks as well

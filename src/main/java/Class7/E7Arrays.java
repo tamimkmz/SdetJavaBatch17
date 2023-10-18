@@ -1,4 +1,4 @@
-package class7;
+package Class7;
 
 public class E7Arrays {
     public static void main(String[] args) {

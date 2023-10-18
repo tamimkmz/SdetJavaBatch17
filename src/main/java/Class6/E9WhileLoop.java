@@ -1,4 +1,4 @@
-package class6;
+package Class6;
 
 public class E9WhileLoop {
     public static void main(String[] args) {

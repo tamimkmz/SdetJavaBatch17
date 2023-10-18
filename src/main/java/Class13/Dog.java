@@ -1,4 +1,4 @@
-package class13;
+package Class13;
 
 public class Dog {
     String name;

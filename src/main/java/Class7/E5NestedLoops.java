@@ -1,4 +1,4 @@
-package class7;
+package Class7;
 
 public class E5NestedLoops {
     public static void main(String[] args) {

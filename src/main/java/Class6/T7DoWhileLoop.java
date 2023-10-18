@@ -1,4 +1,4 @@
-package class6;
+package Class6;
 
 public class T7DoWhileLoop {
     public static void main(String[] args) {

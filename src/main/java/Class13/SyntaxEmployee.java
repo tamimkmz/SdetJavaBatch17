@@ -1,4 +1,4 @@
-package class13;
+package Class13;
 /*
 Create a Class called SyntaxEmployee:
 Create three  variables  empID , salary and set the CEO to “Sumair”
